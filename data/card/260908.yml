@@ -2,13 +2,13 @@ about:
   description: "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
   license: Apache-2.0
   homepage: https://podman-desktop.io
-  head: 8dc8927
+  head: 57795f4
   archived: false
   latestVersion: "v1.29.3"
-  collectedAt: 2026-09-08T03:29:18Z
+  collectedAt: 2026-09-08T03:50:38Z
 timeline:
   created: 2022-03-03
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2026-09-01
 popularity:
   star: 7986
@@ -81,14 +81,14 @@ recent:
     commit: 0
 total:
   release: 88
-  mergedPR: 10497
-  openPR: 93
+  mergedPR: 10498
+  openPR: 92
   closedIssue: 6161
   openIssue: 781
-  commit: 11284
+  commit: 11285
 ---
 path: /home/runner/.x-repo/github.com/containers/podman-desktop
-collectedAt: 2026-09-08T03:38:47Z
+collectedAt: 2026-09-08T04:00:20Z
 loc:
   TypeScript:
     code: 208430
@@ -101,9 +101,9 @@ loc:
     blanks: 11
     files: 77
   Yaml:
-    code: 30851
+    code: 30843
     comments: 341
-    blanks: 5284
+    blanks: 5282
     files: 22
   Svelte:
     code: 20391
@@ -161,9 +161,9 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 328599
+  code: 328591
   comments: 67938
-  blanks: 59643
+  blanks: 59641
   files: 2757
 ---
 
