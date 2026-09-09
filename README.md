@@ -7,7 +7,7 @@ Podman Desktop is the best free and open source tool to work with Containers and
 - **Latest release**: `v1.29.3` (2026-09-01)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 7989 · **Forks**: 560 · **Open issues**: 6945 · **Contributors**: 183
+- **Stars**: 7992 · **Forks**: 560 · **Open issues**: 6949 · **Contributors**: 183
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/podman-desktop> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:06:51Z._
+_Last regenerated: 2026-09-09T21:10:01Z._
