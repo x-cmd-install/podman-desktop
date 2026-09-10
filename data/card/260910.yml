@@ -2,12 +2,12 @@ about:
   description: "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
   license: Apache-2.0
   homepage: https://podman-desktop.io
-  head: 3aa5e56
+  head: 46860a0
   archived: false
   latestVersion: "v1.29.3"
   latestRelease: "v1.29.3"
   latestPrerelease: "v1.29.2"
-  collectedAt: 2026-09-10T18:30:43Z
+  collectedAt: 2026-09-10T21:40:19Z
 timeline:
   created: 2022-03-03
   lastCommit: 2026-09-10
@@ -20,11 +20,11 @@ popularity:
   fork: 561
   release: 88
   contributor: 184
-  pullRequest: 11902
+  pullRequest: 11905
   issue: 6953
 language:
-  TypeScript: 10273837
-  Svelte: 1932121
+  TypeScript: 10277287
+  Svelte: 1932833
   JavaScript: 102410
   Shell: 51944
   PowerShell: 22555
@@ -33,7 +33,7 @@ language:
   Mustache: 3538
   HTML: 470
   NSIS: 266
-totalBytes: 12403249
+totalBytes: 12407411
 recent:
   last30d:
     since: 2026-08-11
@@ -85,19 +85,19 @@ recent:
     commit: 0
 total:
   release: 88
-  mergedPR: 10541
-  openPR: 80
-  closedIssue: 6173
-  openIssue: 780
-  commit: 11330
+  mergedPR: 10543
+  openPR: 81
+  closedIssue: 6174
+  openIssue: 779
+  commit: 11332
 ---
 path: /home/runner/.x-repo/github.com/containers/podman-desktop
-collectedAt: 2026-09-10T18:41:56Z
+collectedAt: 2026-09-10T21:50:52Z
 loc:
   TypeScript:
-    code: 209640
-    comments: 45673
-    blanks: 40203
+    code: 209705
+    comments: 45671
+    blanks: 40225
     files: 1699
   Json:
     code: 36233
@@ -110,7 +110,7 @@ loc:
     blanks: 5283
     files: 23
   Svelte:
-    code: 20412
+    code: 20420
     comments: 258
     blanks: 1324
     files: 612
@@ -165,22 +165,22 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 329962
-  comments: 68678
-  blanks: 60071
+  code: 330048
+  comments: 68675
+  blanks: 60096
   files: 2767
 ---
 
 ---
-  - fsevents.node
   - Podman Desktop
-  - Podman Desktop Helper (Plugin)
-  - Podman Desktop Helper
+  - fsevents.node
   - Podman Desktop Helper (GPU)
-  - Squirrel
-  - ShipIt
+  - Podman Desktop Helper (Renderer)
+  - Mantle
   - ReactiveObjC
   - Electron Framework
   - chrome_crashpad_handler
-  - Podman Desktop Helper (Renderer)
-  - Mantle
+  - Squirrel
+  - ShipIt
+  - Podman Desktop Helper (Plugin)
+  - Podman Desktop Helper
