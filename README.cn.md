@@ -1,61 +1,61 @@
 # podman-desktop
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 
-![podman-desktop](https://repo.x-cmd.io/podman-desktop.svg)
+![podman-desktop](https://repo.x-cmd.io/podman-desktop.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install podman-desktop
 ```
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/containers/podman-desktop>
-- **Homepage**: <https://podman-desktop.io>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/containers/podman-desktop>
+- **官网**: <https://podman-desktop.io>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v1.29.3` (2026-09-01)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 45
+- **最新版本**: `v1.29.3` (2026-09-01)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 45 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 7,994 · **Forks**: 561 · **Open issues**: 6,953 · **Contributors**: 184
+- **Star**: 7,994 · **Fork**: 561 · **开放 issue**: 6,953 · **贡献者**: 184
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 88 · **Merged PRs**: 10541 · **Open PRs**: 80 · **Closed issues**: 6173 · **Open issues**: 780 · **Commits**: 11330
+- **发布数**: 88 · **已合并 PR**: 10541 · **开放 PR**: 80 · **已关闭 issue**: 6173 · **开放 issue**: 780 · **提交数**: 11330
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 6 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 21 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## 代码规模
 
-Total: **303,803** lines of code across **2439** files in the top 5 languages.
+合计: **303,803** 行代码（覆盖前 5 种语言、共 **2439** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | TypeScript | 209,640 | 45,673 | 40,203 | 1699 |
 | Json | 36,233 | 0 | 11 | 77 |
 | Yaml | 30,836 | 359 | 5,283 | 23 |
 | Svelte | 20,412 | 258 | 1,324 | 612 |
 | Tsx | 2,546 | 175 | 190 | 28 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [latest-mac.yml](https://github.com/containers/podman-desktop/releases/download/v1.29.3/latest-mac.yml) | 1.1 KiB | `other` |
 | [latest.yml](https://github.com/containers/podman-desktop/releases/download/v1.29.3/latest.yml) | 694 B | `other` |
 | [podman-desktop-1.29.3-arm64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.dmg) | 225.2 MiB | `other` |
@@ -102,13 +102,13 @@ Total: **303,803** lines of code across **2439** files in the top 5 languages.
 | [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-amd64.tgz) | 288.6 MiB | `native/linux/x64` |
 | [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-arm64.tgz) | 285.6 MiB | `native/linux/arm64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for podman-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `podman-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+podman-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `podman-desktop` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/podman-desktop.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/podman-desktop.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:42:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:42:28Z._
