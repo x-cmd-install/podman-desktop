@@ -12,6 +12,18 @@ Podman Desktop is the best free and open source tool to work with Containers and
 x install podman-desktop
 ```
 
+## Code insight
+
+Total: **303,876** lines of code across **2439** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 209,705 | 45,671 | 40,225 | 1699 |
+| Json | 36,233 | 0 | 11 | 77 |
+| Yaml | 30,836 | 359 | 5,283 | 23 |
+| Svelte | 20,420 | 258 | 1,324 | 612 |
+| Tsx | 2,546 | 175 | 190 | 28 |
+
 ## Source
 
 - **Upstream**: <https://github.com/containers/podman-desktop>
@@ -30,27 +42,18 @@ x install podman-desktop
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 10541 · **Open PRs**: 80 · **Closed issues**: 6173 · **Open issues**: 780 · **Commits**: 11330
+- **Releases**: 88 · **Merged PRs**: 10543 · **Open PRs**: 81 · **Closed issues**: 6174 · **Open issues**: 779 · **Commits**: 11332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 5 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 12 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 21 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **303,803** lines of code across **2439** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 209,640 | 45,673 | 40,203 | 1699 |
-| Json | 36,233 | 0 | 11 | 77 |
-| Yaml | 30,836 | 359 | 5,283 | 23 |
-| Svelte | 20,412 | 258 | 1,324 | 612 |
-| Tsx | 2,546 | 175 | 190 | 28 |
+| last720d | 2024-09-20 | 42 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -102,6 +105,15 @@ Total: **303,803** lines of code across **2439** files in the top 5 languages.
 | [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-amd64.tgz) | 288.6 MiB | `native/linux/x64` |
 | [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-arm64.tgz) | 285.6 MiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/podman-desktop). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.29.3` | ✅ latest |
+| Nix unstable | `1.29.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for podman-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `podman-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +123,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:42:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:51:28Z._
