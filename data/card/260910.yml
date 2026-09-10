@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.29.3"
   latestRelease: "v1.29.3"
   latestPrerelease: "v1.29.2"
-  collectedAt: 2026-09-10T21:40:19Z
+  collectedAt: 2026-09-10T22:04:42Z
 timeline:
   created: 2022-03-03
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 11332
 ---
 path: /home/runner/.x-repo/github.com/containers/podman-desktop
-collectedAt: 2026-09-10T21:50:52Z
+collectedAt: 2026-09-10T22:16:18Z
 loc:
   TypeScript:
     code: 209705
@@ -172,15 +172,15 @@ total:
 ---
 
 ---
-  - Podman Desktop
   - fsevents.node
-  - Podman Desktop Helper (GPU)
-  - Podman Desktop Helper (Renderer)
+  - Podman Desktop
   - Mantle
-  - ReactiveObjC
   - Electron Framework
   - chrome_crashpad_handler
+  - Podman Desktop Helper (GPU)
+  - Podman Desktop Helper (Renderer)
+  - Podman Desktop Helper (Plugin)
   - Squirrel
   - ShipIt
-  - Podman Desktop Helper (Plugin)
+  - ReactiveObjC
   - Podman Desktop Helper
