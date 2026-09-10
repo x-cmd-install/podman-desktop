@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1172,
       "digest": "sha256:d3ebb399292ce3ac4707b8c1780af5fe0ebd9a2fa6b639178abeddfd4d65ad09",
-      "download_count": 355469,
+      "download_count": 401834,
       "created_at": "2026-09-01T14:25:41Z",
       "updated_at": "2026-09-01T14:25:41Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/latest-mac.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 694,
       "digest": "sha256:2282516934b59e3f48e15eb083e1f0303042b24701d12e286f9fae94b06ad513",
-      "download_count": 335649,
+      "download_count": 381570,
       "created_at": "2026-09-01T14:15:58Z",
       "updated_at": "2026-09-01T14:15:58Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/latest.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 236188274,
       "digest": "sha256:9cf9b228da2cf95ee76a7c0435920ea8f71cdca75785a10bc6eb3cd303f68ba2",
-      "download_count": 14658,
+      "download_count": 15968,
       "created_at": "2026-09-01T14:17:51Z",
       "updated_at": "2026-09-01T14:17:59Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.dmg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 143201944,
       "digest": "sha256:24539c64d32c8661eed0506400e71921071c9ea1de5703440c0fd9eec72e190a",
-      "download_count": 189,
+      "download_count": 199,
       "created_at": "2026-09-01T14:15:07Z",
       "updated_at": "2026-09-01T14:15:14Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 158998391,
       "digest": "sha256:d874c2b7a97afcdff8504731ad5f860eae62be733aeeb64d097f432c81402e40",
-      "download_count": 161,
+      "download_count": 170,
       "created_at": "2026-09-01T14:17:14Z",
       "updated_at": "2026-09-01T14:17:19Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 229621429,
       "digest": "sha256:090d3ad28eb6d80607b0690a89a0de7566e568a05d6c35f3a116dec76384e49b",
-      "download_count": 14382,
+      "download_count": 15752,
       "created_at": "2026-09-01T14:18:28Z",
       "updated_at": "2026-09-01T14:18:35Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 239819,
       "digest": "sha256:e77be3722e09dea96c34eec0dfadc96b32275acf58545d4100e861d3916cbd6e",
-      "download_count": 10768,
+      "download_count": 11812,
       "created_at": "2026-09-01T14:18:28Z",
       "updated_at": "2026-09-01T14:18:28Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.zip.blockmap"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 143479104,
       "digest": "sha256:64bda1ce8b7ad8ce3a6320bfa37b3aa7adf0f2096c24657584bebf9c68ff9c1e",
-      "download_count": 451,
+      "download_count": 482,
       "created_at": "2026-09-01T14:15:41Z",
       "updated_at": "2026-09-01T14:15:53Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-arm64.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 150522248,
       "digest": "sha256:63e95821fa0942521cc17ef96b0ae5ae9af8207991a9cfcf79e48bf5552e35de",
-      "download_count": 29890,
+      "download_count": 33067,
       "created_at": "2026-09-01T14:15:34Z",
       "updated_at": "2026-09-01T14:15:52Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-x64.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 293303192,
       "digest": "sha256:acdc4c8fa3128f3b491a52f03b9d5761e6d6ebc9cf06fbd74eabb8fc82e16ba2",
-      "download_count": 4687,
+      "download_count": 5461,
       "created_at": "2026-09-01T14:15:48Z",
       "updated_at": "2026-09-01T14:15:58Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 306772,
       "digest": "sha256:4cc66f3494659ea44b876bef97a4fe1d681805ae168727c69a5b44b13e9216a1",
-      "download_count": 680,
+      "download_count": 757,
       "created_at": "2026-09-01T14:15:48Z",
       "updated_at": "2026-09-01T14:15:49Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup.exe.blockmap"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 411333777,
       "digest": "sha256:79e297b359e0e15d7cf8283d7280b2d5056c10ff021ae850dda6ad2fc8677906",
-      "download_count": 8886,
+      "download_count": 9890,
       "created_at": "2026-09-01T14:24:00Z",
       "updated_at": "2026-09-01T14:24:16Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 426441,
       "digest": "sha256:ae6b1c49bbfea39bbbad419771594e7f8006034a416ea4013029b7b3e3fdb141",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-09-01T14:24:00Z",
       "updated_at": "2026-09-01T14:24:00Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.dmg.blockmap"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 401626640,
       "digest": "sha256:2eda541bff635b20f2eef50fa47bbd53932425b929a4c753a401a52c38ccadfb",
-      "download_count": 133,
+      "download_count": 135,
       "created_at": "2026-09-01T14:25:28Z",
       "updated_at": "2026-09-01T14:25:41Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 241736554,
       "digest": "sha256:0e6a5c8a13d98ad97d824ad91110bdff6b3e3b9426bfd28d130264f10a560b2d",
-      "download_count": 1587,
+      "download_count": 1722,
       "created_at": "2026-09-01T14:14:48Z",
       "updated_at": "2026-09-01T14:15:09Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.dmg"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 150244608,
       "digest": "sha256:060a359aa47dc1274e34a14976916f2a5789a6287096bf55747c428b8cbdc471",
-      "download_count": 374,
+      "download_count": 407,
       "created_at": "2026-09-01T14:15:05Z",
       "updated_at": "2026-09-01T14:15:09Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.exe"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 159482444,
       "digest": "sha256:b2e9df4e1e6186c5da9b2608ef5e7e507da9c27ab2764e475b24df1ca2bc6b7a",
-      "download_count": 401,
+      "download_count": 424,
       "created_at": "2026-09-01T14:15:28Z",
       "updated_at": "2026-09-01T14:15:34Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 235194847,
       "digest": "sha256:30a81502e2604de9409ea7ea4b9ba7316a513af433a0ed73d781313fbbd106b7",
-      "download_count": 771,
+      "download_count": 822,
       "created_at": "2026-09-01T14:15:00Z",
       "updated_at": "2026-09-01T14:15:16Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 244990,
       "digest": "sha256:ac934fa9835733a5dab2896fa46a61be0d63e46d2bfe10cf034908457883f034",
-      "download_count": 538,
+      "download_count": 575,
       "created_at": "2026-09-01T14:15:00Z",
       "updated_at": "2026-09-01T14:15:00Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.zip.blockmap"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 293025816,
       "digest": "sha256:691bdad78a10bf73773e8f91bf54f5cfae81042a3f40c26ed628146693e18b33",
-      "download_count": 817,
+      "download_count": 852,
       "created_at": "2026-09-01T14:15:11Z",
       "updated_at": "2026-09-01T14:15:18Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3.exe"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 115063400,
       "digest": "sha256:b605fe27d7ddd61da8940a6dc81ff585e34e12d32a66155edcfc900287a25fdd",
-      "download_count": 865,
+      "download_count": 917,
       "created_at": "2026-09-01T14:15:38Z",
       "updated_at": "2026-09-01T14:15:42Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3.flatpak"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 1158403499,
       "digest": "sha256:9098605c06ca390a67798c192eabce1949d0f1134e7f89922f437f46db3a4805",
-      "download_count": 965,
+      "download_count": 1026,
       "created_at": "2026-09-01T14:25:30Z",
       "updated_at": "2026-09-01T14:26:14Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.dmg"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 1200996,
       "digest": "sha256:ef335132a3882c86dfbf0782932986bb7eae1e0a3d4369b56f03a3d1a0842b19",
-      "download_count": 133,
+      "download_count": 134,
       "created_at": "2026-09-01T14:25:30Z",
       "updated_at": "2026-09-01T14:25:31Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.dmg.blockmap"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 375996360,
       "digest": "sha256:8fab1c94853fa0f261fdbdbbb678dab4b5ead35b8be3f6bfcf63c284ea21e5ad",
-      "download_count": 142,
+      "download_count": 144,
       "created_at": "2026-09-01T14:18:09Z",
       "updated_at": "2026-09-01T14:18:21Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.exe"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 376273512,
       "digest": "sha256:d7e6aaaf12ac97f7925596f8615bc98df1f61f4b687d7ad216d6606fadf44f92",
-      "download_count": 156,
+      "download_count": 161,
       "created_at": "2026-09-01T14:19:33Z",
       "updated_at": "2026-09-01T14:20:01Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-arm64.exe"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 393324,
       "digest": "sha256:4125f3f2cd98d6ee2103d39e91ab8fbf2d2192c3a5679ac00bfd621c63aac740",
-      "download_count": 131,
+      "download_count": 132,
       "created_at": "2026-09-01T14:19:33Z",
       "updated_at": "2026-09-01T14:19:33Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-arm64.exe.blockmap"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 397775144,
       "digest": "sha256:7e71eebd61d0cdf30be58471a12ab2986363b6db794001b81c28830272747e00",
-      "download_count": 329,
+      "download_count": 353,
       "created_at": "2026-09-01T14:19:20Z",
       "updated_at": "2026-09-01T14:20:01Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-x64.exe"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 1343649949,
       "digest": "sha256:3a0390f74fa485df1a05b69df9288f80b7927895772629adeef51f34db2555e4",
-      "download_count": 164,
+      "download_count": 168,
       "created_at": "2026-09-01T14:19:15Z",
       "updated_at": "2026-09-01T14:19:56Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.dmg"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 397497496,
       "digest": "sha256:e9915d4d0349301c4ac267096079fcf655fbf3502956bf73277d3ec781693c91",
-      "download_count": 148,
+      "download_count": 149,
       "created_at": "2026-09-01T14:18:12Z",
       "updated_at": "2026-09-01T14:18:25Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.exe"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 1335707896,
       "digest": "sha256:07c7f2181e8aae78ec110f320c69cc1fbd2cb47f8168df2aa985825d2b6aff17",
-      "download_count": 145,
+      "download_count": 146,
       "created_at": "2026-09-01T14:21:12Z",
       "updated_at": "2026-09-01T14:22:18Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.zip"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 299468107,
       "digest": "sha256:f66075855fe306f1f0bfcf89bc81c19ef7b23bb194b715f0ce5f12f91c95f7b4",
-      "download_count": 130,
+      "download_count": 131,
       "created_at": "2026-09-01T14:33:46Z",
       "updated_at": "2026-09-01T14:33:57Z",
       "browser_download_url": "https://github.com/podman-desktop/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-arm64.tgz"
