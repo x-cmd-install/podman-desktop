@@ -14,14 +14,14 @@ x install podman-desktop
 
 ## Code insight
 
-Total: **303,876** lines of code across **2439** files in the top 5 languages.
+Total: **303,936** lines of code across **2439** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 209,705 | 45,671 | 40,225 | 1699 |
-| Json | 36,233 | 0 | 11 | 77 |
+| TypeScript | 209,782 | 45,673 | 40,237 | 1699 |
+| Json | 36,238 | 0 | 11 | 77 |
 | Yaml | 30,836 | 359 | 5,283 | 23 |
-| Svelte | 20,420 | 258 | 1,324 | 612 |
+| Svelte | 20,398 | 258 | 1,324 | 612 |
 | Tsx | 2,546 | 175 | 190 | 28 |
 
 ## Source
@@ -33,16 +33,16 @@ Total: **303,876** lines of code across **2439** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.29.3` (2026-09-01)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 7,996 · **Forks**: 561 · **Open issues**: 6,953 · **Contributors**: 184
+- **Stars**: 7,999 · **Forks**: 562 · **Open issues**: 6,957 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 10543 · **Open PRs**: 81 · **Closed issues**: 6174 · **Open issues**: 779 · **Commits**: 11332
+- **Releases**: 88 · **Merged PRs**: 10552 · **Open PRs**: 82 · **Closed issues**: 6177 · **Open issues**: 780 · **Commits**: 11342
 
 ## Recent activity
 
@@ -123,4 +123,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:04:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:53:35Z._
