@@ -1,0 +1,186 @@
+about:
+  description: "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
+  license: Apache-2.0
+  homepage: https://podman-desktop.io
+  head: 46860a0
+  archived: false
+  latestVersion: "v1.29.3"
+  latestRelease: "v1.29.3"
+  latestPrerelease: "v1.29.2"
+  collectedAt: 2026-09-11T03:51:09Z
+timeline:
+  created: 2022-03-03
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-01
+  lastRelease: 2026-09-01
+  lastPrerelease: 2026-08-31
+popularity:
+  star: 7996
+  watcher: 53
+  fork: 561
+  release: 88
+  contributor: 184
+  pullRequest: 11905
+  issue: 6953
+language:
+  TypeScript: 10277287
+  Svelte: 1932833
+  JavaScript: 102410
+  Shell: 51944
+  PowerShell: 22555
+  CSS: 11129
+  Dockerfile: 4979
+  Mustache: 3538
+  HTML: 470
+  NSIS: 266
+totalBytes: 12407411
+recent:
+  last30d:
+    since: 2026-08-12
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-13
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-13
+    release: 6
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-15
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-16
+    release: 21
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-21
+    release: 42
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 88
+  mergedPR: 10543
+  openPR: 81
+  closedIssue: 6174
+  openIssue: 779
+  commit: 11332
+---
+path: /home/runner/.x-repo/github.com/containers/podman-desktop
+collectedAt: 2026-09-11T04:04:17Z
+loc:
+  TypeScript:
+    code: 209705
+    comments: 45671
+    blanks: 40225
+    files: 1699
+  Json:
+    code: 36233
+    comments: 0
+    blanks: 11
+    files: 77
+  Yaml:
+    code: 30836
+    comments: 359
+    blanks: 5283
+    files: 23
+  Svelte:
+    code: 20420
+    comments: 258
+    blanks: 1324
+    files: 612
+  Tsx:
+    code: 2546
+    comments: 175
+    blanks: 190
+    files: 28
+  JavaScript:
+    code: 1833
+    comments: 564
+    blanks: 212
+    files: 30
+  Svg:
+    code: 1312
+    comments: 9
+    blanks: 8
+    files: 46
+  Sh:
+    code: 581
+    comments: 196
+    blanks: 116
+    files: 9
+  Css:
+    code: 259
+    comments: 61
+    blanks: 49
+    files: 4
+  Mustache:
+    code: 106
+    comments: 0
+    blanks: 14
+    files: 5
+  Bitbake:
+    code: 32
+    comments: 0
+    blanks: 10
+    files: 2
+  Html:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19706
+    blanks: 8254
+    files: 229
+  Text:
+    code: 0
+    comments: 7
+    blanks: 0
+    files: 2
+total:
+  code: 330048
+  comments: 68675
+  blanks: 60096
+  files: 2767
+---
+
+---
+  - Podman Desktop
+  - fsevents.node
+  - Podman Desktop Helper
+  - Mantle
+  - Podman Desktop Helper (Plugin)
+  - Podman Desktop Helper (GPU)
+  - ReactiveObjC
+  - Podman Desktop Helper (Renderer)
+  - ShipIt
+  - Squirrel
+  - Electron Framework
+  - chrome_crashpad_handler
