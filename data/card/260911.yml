@@ -2,29 +2,29 @@ about:
   description: "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
   license: Apache-2.0
   homepage: https://podman-desktop.io
-  head: 46860a0
+  head: 5b6afeb
   archived: false
   latestVersion: "v1.29.3"
   latestRelease: "v1.29.3"
   latestPrerelease: "v1.29.2"
-  collectedAt: 2026-09-11T03:51:09Z
+  collectedAt: 2026-09-11T20:43:13Z
 timeline:
   created: 2022-03-03
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-01
   lastRelease: 2026-09-01
   lastPrerelease: 2026-08-31
 popularity:
-  star: 7996
+  star: 7999
   watcher: 53
-  fork: 561
+  fork: 562
   release: 88
-  contributor: 184
-  pullRequest: 11905
-  issue: 6953
+  contributor: 185
+  pullRequest: 11916
+  issue: 6957
 language:
-  TypeScript: 10277287
-  Svelte: 1932833
+  TypeScript: 10279820
+  Svelte: 1932574
   JavaScript: 102410
   Shell: 51944
   PowerShell: 22555
@@ -33,7 +33,7 @@ language:
   Mustache: 3538
   HTML: 470
   NSIS: 266
-totalBytes: 12407411
+totalBytes: 12409685
 recent:
   last30d:
     since: 2026-08-12
@@ -85,22 +85,22 @@ recent:
     commit: 0
 total:
   release: 88
-  mergedPR: 10543
-  openPR: 81
-  closedIssue: 6174
-  openIssue: 779
-  commit: 11332
+  mergedPR: 10552
+  openPR: 82
+  closedIssue: 6177
+  openIssue: 780
+  commit: 11342
 ---
 path: /home/runner/.x-repo/github.com/containers/podman-desktop
-collectedAt: 2026-09-11T04:04:17Z
+collectedAt: 2026-09-11T20:53:18Z
 loc:
   TypeScript:
-    code: 209705
-    comments: 45671
-    blanks: 40225
+    code: 209782
+    comments: 45673
+    blanks: 40237
     files: 1699
   Json:
-    code: 36233
+    code: 36238
     comments: 0
     blanks: 11
     files: 77
@@ -110,7 +110,7 @@ loc:
     blanks: 5283
     files: 23
   Svelte:
-    code: 20420
+    code: 20398
     comments: 258
     blanks: 1324
     files: 612
@@ -156,8 +156,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 19706
-    blanks: 8254
+    comments: 19776
+    blanks: 8288
     files: 229
   Text:
     code: 0
@@ -165,22 +165,22 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 330048
-  comments: 68675
-  blanks: 60096
+  code: 330114
+  comments: 68748
+  blanks: 60144
   files: 2767
 ---
 
 ---
   - Podman Desktop
   - fsevents.node
-  - Podman Desktop Helper
-  - Mantle
+  - Podman Desktop Helper (Renderer)
   - Podman Desktop Helper (Plugin)
+  - chrome_crashpad_handler
+  - Electron Framework
+  - Mantle
+  - Podman Desktop Helper
   - Podman Desktop Helper (GPU)
   - ReactiveObjC
-  - Podman Desktop Helper (Renderer)
-  - ShipIt
   - Squirrel
-  - Electron Framework
-  - chrome_crashpad_handler
+  - ShipIt
