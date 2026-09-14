@@ -38,22 +38,22 @@ Total: **303,936** lines of code across **2439** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,000 · **Forks**: 563 · **Open issues**: 6,957 · **Contributors**: 185
+- **Stars**: 8,003 · **Forks**: 565 · **Open issues**: 6,957 · **Contributors**: 185
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 10552 · **Open PRs**: 83 · **Closed issues**: 6177 · **Open issues**: 780 · **Commits**: 11342
+- **Releases**: 88 · **Merged PRs**: 10552 · **Open PRs**: 86 · **Closed issues**: 6178 · **Open issues**: 779 · **Commits**: 11342
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-18 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-23 | 42 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-19 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-24 | 42 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,15 +105,6 @@ Total: **303,936** lines of code across **2439** files in the top 5 languages.
 | [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-amd64.tgz) | 288.6 MiB | `native/linux/x64` |
 | [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-arm64.tgz) | 285.6 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/podman-desktop). **8** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.29.3` | ✅ latest |
-| Nix unstable | `1.29.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for podman-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `podman-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -123,4 +114,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:12:21Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:19:59Z._
