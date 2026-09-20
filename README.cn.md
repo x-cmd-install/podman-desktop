@@ -4,7 +4,7 @@
 
 Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 
-![podman-desktop](https://repo.x-cmd.io/podman-desktop.svg?lang=zh)
+[![x-cmd/install — podman-desktop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/podman-desktop.svg?lang=zh)](https://x-cmd.com/install/podman-desktop)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install podman-desktop
 
 ## 代码洞察
 
-合计: **305,371** 行代码（覆盖前 5 种语言、共 **2451** 个文件）。
+合计: **305,501** 行代码（覆盖前 5 种语言、共 **2451** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 210,253 | 45,792 | 40,332 | 1704 |
+| TypeScript | 210,381 | 45,809 | 40,376 | 1704 |
 | Json | 36,239 | 0 | 11 | 77 |
 | Yaml | 31,320 | 359 | 5,380 | 23 |
-| Svelte | 20,380 | 259 | 1,323 | 612 |
+| Svelte | 20,382 | 264 | 1,323 | 612 |
 | Tsx | 2,991 | 242 | 228 | 35 |
 
 ## 源代码
@@ -38,22 +38,22 @@ x install podman-desktop
 
 ## 流行度
 
-- **Star**: 8,020 · **Fork**: 568 · **开放 issue**: 7,004 · **贡献者**: 187
+- **Star**: 8,022 · **Fork**: 567 · **开放 issue**: 7,010 · **贡献者**: 188
 
 ## 累计统计
 
-- **发布数**: 88 · **已合并 PR**: 10618 · **开放 PR**: 77 · **已关闭 issue**: 6199 · **开放 issue**: 805 · **提交数**: 11414
+- **发布数**: 88 · **已合并 PR**: 10626 · **开放 PR**: 77 · **已关闭 issue**: 6205 · **开放 issue**: 805 · **提交数**: 11422
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 42 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 42 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -114,4 +114,4 @@ podman-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:10:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:24:34Z._
