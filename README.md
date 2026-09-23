@@ -4,7 +4,7 @@
 
 Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop.
 
-[![x-cmd/install — podman-desktop Code Quality Monitoring Repo Card](https://repo.x-cmd.io/podman-desktop.svg)](https://x-cmd.com/install/podman-desktop)
+[![x-cmd/install — podman-desktop Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/podman-desktop.svg)](https://x-cmd.com/install/podman-desktop)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install podman-desktop
 
 ## Code insight
 
-Total: **306,388** lines of code across **2454** files in the top 5 languages.
+Total: **306,504** lines of code across **2454** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 211,339 | 45,948 | 40,578 | 1707 |
+| TypeScript | 211,778 | 45,960 | 40,640 | 1707 |
 | Json | 36,239 | 0 | 11 | 77 |
 | Yaml | 31,237 | 359 | 5,352 | 23 |
-| Svelte | 20,386 | 264 | 1,323 | 612 |
-| Tsx | 2,991 | 242 | 228 | 35 |
+| Svelte | 20,394 | 264 | 1,324 | 612 |
+| Tsx | 2,667 | 193 | 220 | 35 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **306,388** lines of code across **2454** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.30.0` (2026-09-01)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 8,022 · **Forks**: 567 · **Open issues**: 7,014 · **Contributors**: 188
+- **Stars**: 8,024 · **Forks**: 567 · **Open issues**: 7,016 · **Contributors**: 188
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 10653 · **Open PRs**: 75 · **Closed issues**: 6214 · **Open issues**: 800 · **Commits**: 11449
+- **Releases**: 89 · **Merged PRs**: 10670 · **Open PRs**: 69 · **Closed issues**: 6222 · **Open issues**: 794 · **Commits**: 11462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 43 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:19:15Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:16:11Z._
