@@ -14,14 +14,14 @@ x install podman-desktop
 
 ## 代码洞察
 
-合计: **308,407** 行代码（覆盖前 5 种语言、共 **2456** 个文件）。
+合计: **308,843** 行代码（覆盖前 5 种语言、共 **2458** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 213,527 | 46,079 | 40,983 | 1711 |
-| Json | 36,251 | 0 | 11 | 78 |
-| Yaml | 31,426 | 359 | 5,383 | 23 |
-| Svelte | 20,355 | 261 | 1,322 | 610 |
+| TypeScript | 213,957 | 46,079 | 41,049 | 1711 |
+| Json | 36,265 | 0 | 11 | 80 |
+| Yaml | 31,411 | 359 | 5,377 | 23 |
+| Svelte | 20,356 | 261 | 1,322 | 610 |
 | Tsx | 2,523 | 124 | 175 | 34 |
 
 ## 源代码
@@ -32,78 +32,78 @@ x install podman-desktop
 
 ## 发布
 
-- **最新版本**: `v1.30.4` (2026-09-01)
-- **最近提交**: 2026-10-12
+- **最新版本**: `v1.30.5` (2026-10-13)
+- **最近提交**: 2026-10-14
 - **Release 含资产**: 45 个
 
 ## 流行度
 
-- **Star**: 8,075 · **Fork**: 576 · **开放 issue**: 7,095 · **贡献者**: 190
+- **Star**: 8,072 · **Fork**: 576 · **开放 issue**: 7,122 · **贡献者**: 190
 
 ## 累计统计
 
-- **发布数**: 93 · **已合并 PR**: 10813 · **开放 PR**: 95 · **已关闭 issue**: 6276 · **开放 issue**: 819 · **提交数**: 11601
+- **发布数**: 94 · **已合并 PR**: 10837 · **开放 PR**: 106 · **已关闭 issue**: 6307 · **开放 issue**: 815 · **提交数**: 11623
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-18 | 24 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-23 | 45 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 45 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest-mac.yml](https://github.com/containers/podman-desktop/releases/download/v1.29.3/latest-mac.yml) | 1.1 KiB | `other` |
-| [latest.yml](https://github.com/containers/podman-desktop/releases/download/v1.29.3/latest.yml) | 694 B | `other` |
-| [podman-desktop-1.29.3-arm64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.dmg) | 225.2 MiB | `other` |
-| [podman-desktop-1.29.3-arm64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.dmg.blockmap) | 240.0 KiB | `other` |
-| [podman-desktop-1.29.3-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.exe) | 136.6 MiB | `other` |
-| [podman-desktop-1.29.3-arm64.tar.gz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.tar.gz) | 151.6 MiB | `native/linux/arm64` |
-| [podman-desktop-1.29.3-arm64.zip](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.zip) | 219.0 MiB | `other` |
-| [podman-desktop-1.29.3-arm64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-arm64.zip.blockmap) | 234.2 KiB | `other` |
-| [podman-desktop-1.29.3-setup-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-arm64.exe) | 136.8 MiB | `other` |
-| [podman-desktop-1.29.3-setup-arm64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-arm64.exe.blockmap) | 147.3 KiB | `other` |
-| [podman-desktop-1.29.3-setup-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-x64.exe) | 143.5 MiB | `other` |
-| [podman-desktop-1.29.3-setup-x64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup-x64.exe.blockmap) | 155.6 KiB | `other` |
-| [podman-desktop-1.29.3-setup.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup.exe) | 279.7 MiB | `other` |
-| [podman-desktop-1.29.3-setup.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-setup.exe.blockmap) | 299.6 KiB | `other` |
-| [podman-desktop-1.29.3-universal.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.dmg) | 392.3 MiB | `other` |
-| [podman-desktop-1.29.3-universal.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.dmg.blockmap) | 416.4 KiB | `other` |
-| [podman-desktop-1.29.3-universal.zip](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.zip) | 383.0 MiB | `other` |
-| [podman-desktop-1.29.3-universal.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-universal.zip.blockmap) | 409.6 KiB | `other` |
-| [podman-desktop-1.29.3-x64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.dmg) | 230.5 MiB | `other` |
-| [podman-desktop-1.29.3-x64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.dmg.blockmap) | 247.1 KiB | `other` |
-| [podman-desktop-1.29.3-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.exe) | 143.3 MiB | `other` |
-| [podman-desktop-1.29.3-x64.tar.gz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.tar.gz) | 152.1 MiB | `native/unknown` |
-| [podman-desktop-1.29.3-x64.zip](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.zip) | 224.3 MiB | `other` |
-| [podman-desktop-1.29.3-x64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3-x64.zip.blockmap) | 239.2 KiB | `other` |
-| [podman-desktop-1.29.3.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3.exe) | 279.5 MiB | `other` |
-| [podman-desktop-1.29.3.flatpak](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-1.29.3.flatpak) | 109.7 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-arm64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.dmg) | 1.1 GiB | `other` |
-| [podman-desktop-airgap-1.29.3-arm64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.dmg.blockmap) | 1.1 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.exe) | 358.6 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-arm64.zip](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.zip) | 1.1 GiB | `other` |
-| [podman-desktop-airgap-1.29.3-arm64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-arm64.zip.blockmap) | 1.1 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-arm64.exe) | 358.8 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup-arm64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-arm64.exe.blockmap) | 384.1 KiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-x64.exe) | 379.3 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup-x64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup-x64.exe.blockmap) | 405.3 KiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup.exe) | 737.5 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-setup.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-setup.exe.blockmap) | 787.2 KiB | `other` |
-| [podman-desktop-airgap-1.29.3-x64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.dmg) | 1.3 GiB | `other` |
-| [podman-desktop-airgap-1.29.3-x64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.dmg.blockmap) | 1.3 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.exe) | 379.1 MiB | `other` |
-| [podman-desktop-airgap-1.29.3-x64.zip](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.zip) | 1.2 GiB | `other` |
-| [podman-desktop-airgap-1.29.3-x64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3-x64.zip.blockmap) | 1.3 MiB | `other` |
-| [podman-desktop-airgap-1.29.3.exe](https://github.com/containers/podman-desktop/releases/download/v1.29.3/podman-desktop-airgap-1.29.3.exe) | 737.3 MiB | `other` |
-| [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-amd64.tgz) | 288.6 MiB | `native/linux/x64` |
-| [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.29.3/store-cache-pnpm-arm64.tgz) | 285.6 MiB | `native/linux/arm64` |
+| [latest-mac.yml](https://github.com/containers/podman-desktop/releases/download/v1.30.5/latest-mac.yml) | 1.1 KiB | `other` |
+| [latest.yml](https://github.com/containers/podman-desktop/releases/download/v1.30.5/latest.yml) | 694 B | `other` |
+| [podman-desktop-1.30.5-arm64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.dmg) | 235.1 MiB | `other` |
+| [podman-desktop-1.30.5-arm64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.dmg.blockmap) | 251.6 KiB | `other` |
+| [podman-desktop-1.30.5-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.exe) | 148.3 MiB | `other` |
+| [podman-desktop-1.30.5-arm64.tar.gz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.tar.gz) | 152.7 MiB | `native/linux/arm64` |
+| [podman-desktop-1.30.5-arm64.zip](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.zip) | 228.8 MiB | `other` |
+| [podman-desktop-1.30.5-arm64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-arm64.zip.blockmap) | 247.5 KiB | `other` |
+| [podman-desktop-1.30.5-setup-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-arm64.exe) | 148.5 MiB | `other` |
+| [podman-desktop-1.30.5-setup-arm64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-arm64.exe.blockmap) | 160.8 KiB | `other` |
+| [podman-desktop-1.30.5-setup-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-x64.exe) | 155.3 MiB | `other` |
+| [podman-desktop-1.30.5-setup-x64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup-x64.exe.blockmap) | 168.5 KiB | `other` |
+| [podman-desktop-1.30.5-setup.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup.exe) | 303.2 MiB | `other` |
+| [podman-desktop-1.30.5-setup.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-setup.exe.blockmap) | 326.6 KiB | `other` |
+| [podman-desktop-1.30.5-universal.dmg](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-universal.dmg) | 407.0 MiB | `other` |
+| [podman-desktop-1.30.5-universal.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-universal.dmg.blockmap) | 432.5 KiB | `other` |
+| [podman-desktop-1.30.5-universal.zip](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-universal.zip) | 397.6 MiB | `other` |
+| [podman-desktop-1.30.5-universal.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-universal.zip.blockmap) | 425.4 KiB | `other` |
+| [podman-desktop-1.30.5-x64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.dmg) | 243.2 MiB | `other` |
+| [podman-desktop-1.30.5-x64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.dmg.blockmap) | 262.0 KiB | `other` |
+| [podman-desktop-1.30.5-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.exe) | 155.0 MiB | `other` |
+| [podman-desktop-1.30.5-x64.tar.gz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.tar.gz) | 151.9 MiB | `native/unknown` |
+| [podman-desktop-1.30.5-x64.zip](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.zip) | 236.9 MiB | `other` |
+| [podman-desktop-1.30.5-x64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5-x64.zip.blockmap) | 253.7 KiB | `other` |
+| [podman-desktop-1.30.5.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5.exe) | 302.9 MiB | `other` |
+| [podman-desktop-1.30.5.flatpak](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-1.30.5.flatpak) | 110.6 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-arm64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.dmg) | 1.1 GiB | `other` |
+| [podman-desktop-airgap-1.30.5-arm64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.dmg.blockmap) | 1.2 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.exe) | 371.5 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-arm64.zip](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.zip) | 1.1 GiB | `other` |
+| [podman-desktop-airgap-1.30.5-arm64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-arm64.zip.blockmap) | 1.2 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup-arm64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-arm64.exe) | 371.7 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup-arm64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-arm64.exe.blockmap) | 397.3 KiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-x64.exe) | 392.4 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup-x64.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup-x64.exe.blockmap) | 420.8 KiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup.exe) | 763.4 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-setup.exe.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-setup.exe.blockmap) | 815.8 KiB | `other` |
+| [podman-desktop-airgap-1.30.5-x64.dmg](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.dmg) | 1.3 GiB | `other` |
+| [podman-desktop-airgap-1.30.5-x64.dmg.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.dmg.blockmap) | 1.3 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-x64.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.exe) | 392.1 MiB | `other` |
+| [podman-desktop-airgap-1.30.5-x64.zip](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.zip) | 1.3 GiB | `other` |
+| [podman-desktop-airgap-1.30.5-x64.zip.blockmap](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5-x64.zip.blockmap) | 1.3 MiB | `other` |
+| [podman-desktop-airgap-1.30.5.exe](https://github.com/containers/podman-desktop/releases/download/v1.30.5/podman-desktop-airgap-1.30.5.exe) | 763.2 MiB | `other` |
+| [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/store-cache-pnpm-amd64.tgz) | 448.6 MiB | `native/linux/x64` |
+| [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/store-cache-pnpm-arm64.tgz) | 441.0 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -114,4 +114,4 @@ podman-desktop 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T06:19:59Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T04:09:27Z._
