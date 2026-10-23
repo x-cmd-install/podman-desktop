@@ -14,14 +14,14 @@ x install podman-desktop
 
 ## Code insight
 
-Total: **310,708** lines of code across **2465** files in the top 5 languages.
+Total: **311,436** lines of code across **2472** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 215,778 | 46,258 | 41,388 | 1717 |
+| TypeScript | 216,475 | 46,410 | 41,525 | 1723 |
 | Json | 36,269 | 0 | 11 | 80 |
-| Yaml | 31,440 | 359 | 5,387 | 23 |
-| Svelte | 20,361 | 262 | 1,324 | 611 |
+| Yaml | 31,421 | 359 | 5,383 | 23 |
+| Svelte | 20,411 | 262 | 1,323 | 612 |
 | Tsx | 2,523 | 124 | 175 | 34 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **310,708** lines of code across **2465** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.30.5` (2026-10-13)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 45
 
 ## Popularity
 
-- **Stars**: 8,098 · **Forks**: 583 · **Open issues**: 7,166 · **Contributors**: 192
+- **Stars**: 8,104 · **Forks**: 583 · **Open issues**: 7,177 · **Contributors**: 192
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 10900 · **Open PRs**: 94 · **Closed issues**: 6352 · **Open issues**: 814 · **Commits**: 11686
+- **Releases**: 94 · **Merged PRs**: 10916 · **Open PRs**: 99 · **Closed issues**: 6359 · **Open issues**: 818 · **Commits**: 11704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 44 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 25 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 44 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,6 +105,15 @@ Total: **310,708** lines of code across **2465** files in the top 5 languages.
 | [store-cache-pnpm-amd64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/store-cache-pnpm-amd64.tgz) | 448.6 MiB | `native/linux/x64` |
 | [store-cache-pnpm-arm64.tgz](https://github.com/containers/podman-desktop/releases/download/v1.30.5/store-cache-pnpm-arm64.tgz) | 441.0 MiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **15** distros on [repology.org](https://repology.org/project/podman-desktop). **3** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.29.3` | ⚠️ outdated |
+| Nix unstable | `1.29.3` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for podman-desktop lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `podman-desktop` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +123,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:13:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:15:22Z._
