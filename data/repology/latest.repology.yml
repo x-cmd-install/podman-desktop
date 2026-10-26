@@ -1,54 +1,3 @@
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: podman-desktop
-  binname: podman-desktop
-  visiblename: podman-desktop
-  version: 1.29.3
-  origversion: 1.29.3-1
-  status: outdated
-  summary: Manage Podman and other container engines from a single UI and tray.
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: podman-desktop
-  binname: podman-desktop
-  visiblename: podman-desktop
-  version: 1.29.3
-  origversion: 1.29.3-1
-  status: outdated
-  summary: Manage Podman and other container engines from a single UI and tray.
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: podman-desktop
-  binname: podman-desktop
-  visiblename: podman-desktop
-  version: 1.29.3
-  origversion: 1.29.3-1
-  status: outdated
-  summary: Manage Podman and other container engines from a single UI and tray.
-  licenses:
-    - Apache-2.0
-- repo: homebrew_casks
-  srcname: podman-desktop
-  visiblename: Podman Desktop
-  version: 1.30.5
-  origversion: null
-  status: newest
-  summary: Browse, manage, inspect containers and images
-- repo: nix_stable_24_05
-  srcname: podman-desktop
-  visiblename: podman-desktop
-  version: 0.12.0
-  origversion: null
-  status: outdated
-  summary: A graphical tool for developing on containers and Kubernetes
-  maintainers:
-    - me+nixpkgs@panda2134.site
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: podman-desktop
@@ -84,13 +33,64 @@
   binname: podman-desktop
   visiblename: deskutils/podman-desktop
   version: 1.28.3
-  origversion: 1.28.3_16
+  origversion: 1.28.3_17
   status: outdated
   summary: Graphical tool for developing on containers and Kubernetes
   maintainers:
     - arrowd@freebsd.org
   categories:
     - deskutils
+- repo: homebrew_casks
+  srcname: podman-desktop
+  visiblename: Podman Desktop
+  version: 1.30.5
+  origversion: null
+  status: newest
+  summary: Browse, manage, inspect containers and images
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: podman-desktop
+  binname: podman-desktop
+  visiblename: podman-desktop
+  version: 1.29.3
+  origversion: 1.29.3-1
+  status: outdated
+  summary: Manage Podman and other container engines from a single UI and tray.
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: podman-desktop
+  binname: podman-desktop
+  visiblename: podman-desktop
+  version: 1.29.3
+  origversion: 1.29.3-1
+  status: outdated
+  summary: Manage Podman and other container engines from a single UI and tray.
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: podman-desktop
+  binname: podman-desktop
+  visiblename: podman-desktop
+  version: 1.29.3
+  origversion: 1.29.3-1
+  status: outdated
+  summary: Manage Podman and other container engines from a single UI and tray.
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: podman-desktop
+  visiblename: podman-desktop
+  version: 0.12.0
+  origversion: null
+  status: outdated
+  summary: A graphical tool for developing on containers and Kubernetes
+  maintainers:
+    - me+nixpkgs@panda2134.site
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_11
   srcname: podman-desktop
   visiblename: podman-desktop
