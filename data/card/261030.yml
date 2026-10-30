@@ -1,0 +1,175 @@
+about:
+  description: "Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop."
+  license: Apache-2.0
+  homepage: https://podman-desktop.io
+  head: b7a7d34
+  archived: false
+  latestVersion: "v1.30.5"
+  latestRelease: "v1.30.5"
+  latestPrerelease: "v1.30.4"
+  collectedAt: 2026-10-30T05:01:50Z
+timeline:
+  created: 2022-03-03
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-13
+  lastRelease: 2026-10-13
+  lastPrerelease: 2026-10-05
+popularity:
+  star: 8114
+  watcher: 53
+  fork: 587
+  release: 94
+  contributor: 194
+  pullRequest: 12399
+  issue: 7217
+language:
+  TypeScript: 10669464
+  Svelte: 1944646
+  MDX: 1570335
+  JavaScript: 106726
+  Shell: 55768
+  PowerShell: 22555
+  CSS: 13406
+  Dockerfile: 4979
+  Mustache: 3538
+  NSIS: 1937
+  HTML: 470
+totalBytes: 14393824
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-08-31
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-01
+    release: 8
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-05-03
+    release: 13
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-11-04
+    release: 25
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-11-09
+    release: 43
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 94
+  mergedPR: 10978
+  openPR: 106
+  closedIssue: 6395
+  openIssue: 822
+  commit: 11764
+---
+path: /home/runner/.x-repo/github.com/containers/podman-desktop
+collectedAt: 2026-10-30T05:15:16Z
+loc:
+  TypeScript:
+    code: 217946
+    comments: 46624
+    blanks: 41791
+    files: 1730
+  Json:
+    code: 36333
+    comments: 0
+    blanks: 11
+    files: 81
+  Yaml:
+    code: 31119
+    comments: 359
+    blanks: 5304
+    files: 23
+  Svelte:
+    code: 20438
+    comments: 262
+    blanks: 1327
+    files: 612
+  Tsx:
+    code: 2391
+    comments: 124
+    blanks: 166
+    files: 33
+  JavaScript:
+    code: 1887
+    comments: 614
+    blanks: 225
+    files: 31
+  Svg:
+    code: 1313
+    comments: 9
+    blanks: 8
+    files: 47
+  Sh:
+    code: 653
+    comments: 226
+    blanks: 132
+    files: 10
+  Css:
+    code: 330
+    comments: 77
+    blanks: 65
+    files: 4
+  Mustache:
+    code: 106
+    comments: 0
+    blanks: 14
+    files: 5
+  Bitbake:
+    code: 42
+    comments: 18
+    blanks: 16
+    files: 3
+  Html:
+    code: 13
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3001
+    blanks: 1466
+    files: 33
+  Text:
+    code: 0
+    comments: 17
+    blanks: 0
+    files: 3
+total:
+  code: 337340
+  comments: 52979
+  blanks: 54917
+  files: 2616
+---
+
+---
