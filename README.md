@@ -38,22 +38,22 @@ Total: **313,582** lines of code across **2477** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,142 · **Forks**: 590 · **Open issues**: 7,269 · **Contributors**: 198
+- **Stars**: 8,144 · **Forks**: 591 · **Open issues**: 7,269 · **Contributors**: 198
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 11054 · **Open PRs**: 102 · **Closed issues**: 6453 · **Open issues**: 816 · **Commits**: 11842
+- **Releases**: 94 · **Merged PRs**: 11054 · **Open PRs**: 104 · **Closed issues**: 6474 · **Open issues**: 795 · **Commits**: 11842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 13 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 25 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-17 | 43 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-09 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 13 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 24 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-18 | 43 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -123,4 +123,4 @@ Install metadata for podman-desktop lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:31:43Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:27:56Z._
