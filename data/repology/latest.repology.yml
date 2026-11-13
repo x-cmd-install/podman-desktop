@@ -13,8 +13,8 @@
   srcname: podman-desktop-git
   binname: podman-desktop-git
   visiblename: podman-desktop-git
-  version: r11608.5f4a873
-  origversion: r11608.5f4a873-1
+  version: 1.30.6.r11900.g640da0cd5
+  origversion: 1.30.6.r11900.g640da0cd5-1
   status: rolling
   summary: A graphical tool for developing on containers and Kubernetes.
   maintainers:
