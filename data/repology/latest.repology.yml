@@ -1,15 +1,11 @@
-- repo: nix_stable_25_05
+- repo: homebrew_casks
   srcname: podman-desktop
-  visiblename: podman-desktop
-  version: 1.22.1
+  visiblename: Podman Desktop
+  version: 1.30.7
   origversion: null
-  status: outdated
-  summary: A graphical tool for developing on containers and Kubernetes
-  maintainers:
-    - ihar.hrachyshka@gmail.com
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
+  status: newest
+  summary: Browse, manage, inspect containers and images
+- repo: manjaro_stable
   subrepo: extra
   srcname: podman-desktop
   binname: podman-desktop
@@ -20,14 +16,14 @@
   summary: Manage Podman and other container engines from a single UI and tray.
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
+- repo: manjaro_testing
   subrepo: extra
   srcname: podman-desktop
   binname: podman-desktop
   visiblename: podman-desktop
-  version: 1.30.7
-  origversion: 1.30.7-1
-  status: newest
+  version: 1.29.3
+  origversion: 1.29.3-1
+  status: outdated
   summary: Manage Podman and other container engines from a single UI and tray.
   licenses:
     - Apache-2.0
@@ -57,9 +53,9 @@
 - repo: chocolatey
   binname: podman-desktop
   visiblename: Podman Desktop
-  version: 1.30.5
+  version: 1.30.7
   origversion: null
-  status: outdated
+  status: newest
   summary: Manage Podman and other container engines from a single UI and tray.
 - repo: freebsd
   srcname: deskutils/podman-desktop
@@ -73,21 +69,14 @@
     - arrowd@freebsd.org
   categories:
     - deskutils
-- repo: homebrew_casks
-  srcname: podman-desktop
-  visiblename: Podman Desktop
-  version: 1.30.7
-  origversion: null
-  status: newest
-  summary: Browse, manage, inspect containers and images
-- repo: manjaro_stable
+- repo: manjaro_unstable
   subrepo: extra
   srcname: podman-desktop
   binname: podman-desktop
   visiblename: podman-desktop
-  version: 1.29.3
-  origversion: 1.29.3-1
-  status: outdated
+  version: 1.30.7
+  origversion: 1.30.7-1
+  status: newest
   summary: Manage Podman and other container engines from a single UI and tray.
   licenses:
     - Apache-2.0
@@ -112,6 +101,17 @@
   maintainers:
     - ihar.hrachyshka@gmail.com
     - me+nixpkgs@panda2134.site
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: podman-desktop
+  visiblename: podman-desktop
+  version: 1.22.1
+  origversion: null
+  status: outdated
+  summary: A graphical tool for developing on containers and Kubernetes
+  maintainers:
+    - ihar.hrachyshka@gmail.com
   licenses:
     - Apache-2.0
 - repo: nix_stable_25_11
